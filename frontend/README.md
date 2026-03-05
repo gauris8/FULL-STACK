@@ -1,5 +1,12 @@
 # React + Vite
 
+//card info = 4000 0035 6000 0008 
+// you have to search that in stripe dummy card website but thats the number you get
+
+- change the port as per the current running frontend url link in orderController.js inside backend/controller 
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
